@@ -1,8 +1,20 @@
 
 
 head{
-    font-size: xx-large;
+    font-size: 200%;
     font-family: Tahoma;
     font-weight: 200;
     align-content: center;
+    color: dodgerblue;
 }
+h1{
+    font-size: 200%;
+    color: chartreuse;
+    font-family: Georgia;
+    font-weight: 200;
+}
+h2{
+    font-size: 200%;
+    color: darkred;
+}
+
