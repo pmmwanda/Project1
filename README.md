@@ -2,8 +2,8 @@
 MY PORTFOLIO
 
 Requirements
-Here are the requirements for your page:
 
+Here are the requirements for your page:
 Your name
 An image of you or something that represents who you are
 A list of projects you have created with active links to them (either on GitHub or GitHub pages)
@@ -13,8 +13,8 @@ Your background (for example, your education, job experience, a paragraph on why
 Your current interests/hobbies/skills
 Deploy your site onto GitHub pages so that a live site can be viewed at your-username.github.io/portfolio (for example)
 Objectives
-In addition to these requirements, your portfolio will be evaluated on the following objectives:
-
+In addition to these requirements, your portfolio will be evaluated on the following:
+OBJECTIVES
 Some of the most common HTML tags are incorporated, including:
 p, h, ul, ol, li, em, strong, a, img, div, span
 Page incorporates a custom-made stylesheet that uses cascading, the box model, and floats
